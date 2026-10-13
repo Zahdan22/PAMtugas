@@ -60,4 +60,5 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
 
     debugImplementation("androidx.compose.ui:ui-tooling")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.11.0")
 }
